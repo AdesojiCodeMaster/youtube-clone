@@ -28,8 +28,7 @@ Set up your machine.
   > [Set up HTML validator](https://github.com/microverseinc/linters-config/tree/master/html_validator)
 - Follow the link below to set up a linter
   > [Set up CSS Linter to check code errors](https://github.com/microverseinc/linters-config/tree/master/css#troubleshooting)
-- Clone the repository
-  
+
 ### Install
 
 *Optional*
