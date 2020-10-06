@@ -7,7 +7,6 @@ This web page is developed by HTML5 and CSS only, without using any framework or
 - Stylelint and stickler for linting purpose,
 - html-validator-cli for validate HTML
 ## Getting Started
-
 **Install on Your Own Machine.**
 **You can skip the linter and HTML validators setup if you don't want to validate the code.**
 
@@ -30,9 +29,7 @@ Set up your machine.
 - Follow the link below to set up a linter
   > [Set up CSS Linter to check code errors](https://github.com/microverseinc/linters-config/tree/master/css#troubleshooting)
 - Clone the repository
-  > Clone the repository by run the code below on your computer terminal.
-  `git clone https://github.com/abredi/signup-page.git signup-page`
-
+  
 ### Install
 
 *Optional*
